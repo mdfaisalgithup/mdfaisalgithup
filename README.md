@@ -72,8 +72,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalgithup)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&border_radius=4)](https://git.io/streak-stats)
 
 
 
@@ -83,4 +81,6 @@ Here are some ideas to get you started:
 
 
 
+## Contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&border_radius=4)](https://git.io/streak-stats)
 
