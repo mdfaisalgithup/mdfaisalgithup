@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&theme=merko" alt="GitHub Streak" /></a>
+
 
