@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 ## Summary
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
