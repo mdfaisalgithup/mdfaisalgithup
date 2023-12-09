@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ### Overview 👋
-- I have already worked with mongodb react, html css, javascript, tailwind, firebase all these technologies.
+- I have already worked with mongodb react, html css, javascript, tailwind, firebase, tailwind css all these technologies. I am well versed in these technologies
 
 
 ## My Skills
