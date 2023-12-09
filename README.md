@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 - Added social icon and website name in footer section
 - Added search section of services page and some services
 - User can login and register
- - Technologies use:
-  - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
+  - Technologies use:
+     - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
 
 
 #### Tour Service Website
