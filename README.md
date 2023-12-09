@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript, nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,react,mongodb,firebase,express,nextjs" />
   </a>
 </p>
 
