@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   ✨HTML, ✨CSS,
    ✨JavaScript,  ✨Tailwind,  ✨React,  ✨React Router,  ✨NextJS  ✨Powerful-Tools Tanstack Query  ✨Firebase Authentication all these technologies.
 
-- I specialize in backend development, proficient in Node.js and Express to create robust server-side solutions. With expertise in MongoDB, I excel in database design and management for efficient data handling. Leveraging Next.js, I extend backend functionalities and ensure smooth server-client interactions, contributing to the development of high-performance applications. 
+- I specialize in backend development, proficient in ✨Node.js and ✨Express to create robust server-side solutions. With expertise in ✨MongoDB, I excel in database design and management for efficient data handling. Leveraging ✨Next.js, I extend backend functionalities and ensure smooth server-client interactions, contributing to the development of high-performance applications. 
 
 
 ## My Skills
