@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 ![banner](https://raw.githubusercontent.com/mdfaisalgithup/mdfaisalgithup/main/web-3706551_1280%20copy%202.png)
 
-
+## GitHub Status:
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
 
 ## Overview 👋
 - I have already worked on frontend with
@@ -27,10 +28,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-
-## GitHub Status:
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
 
 
 #### Mobile Shop
