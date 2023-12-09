@@ -69,8 +69,10 @@ Here are some ideas to get you started:
      - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
 
 
-  
+  <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalgithup)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
 
 
 ## GitHub Status:
