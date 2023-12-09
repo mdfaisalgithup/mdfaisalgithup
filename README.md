@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 
 
 ## Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={mdfaisalgithup}&theme={algolia})
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
