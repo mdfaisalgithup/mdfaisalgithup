@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 
 
 ## Summary
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalgithup)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
