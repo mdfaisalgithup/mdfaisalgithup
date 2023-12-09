@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Each page will have header and footer.
 - Some products have been added to the home page. A user can login and buy the phone.
 
-  ## Technologies use:
+   ## Technologies use:
   - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
 
 
@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalgithup)](https://github.com/anuraghazra/github-readme-stats)
-## Total Controbi
+## Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
-## GitHub Status
+## GitHub Status:
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
