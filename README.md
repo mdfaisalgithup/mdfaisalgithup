@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 #### Mobile Shop
-## Live Link: https://apathetic-faileemps.surge.sh/
+- ## Live Link: https://apathetic-faileemps.surge.sh/
 - Added login and register and some navbar.
 - Each page will have header and footer.
 - Some products have been added to the home page. A user can login and buy the phone.
