@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,tailwind,react,mongodb,firebase,express,nextjs" />
   </a>
@@ -31,9 +31,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalgithup)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Summary
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=radical)
+<p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
+</p>
+
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
