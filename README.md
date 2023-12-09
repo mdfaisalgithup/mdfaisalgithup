@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ### Overview 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=1280)](https://git.io/streak-stats)
