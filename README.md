@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 
 ### Overview 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup)](https://git.io/streak-stats)
 
 
-<div>
-<a style="display: block; margin: auto;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&theme=merko" alt="GitHub Streak" /></a>
-</div>
-
-
-
+<a href="https://git.io/streak-stats" style="display: block; margin: 0 auto; text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup" alt="GitHub Streak" style="display: block; margin: 0 auto;">
+</a>
