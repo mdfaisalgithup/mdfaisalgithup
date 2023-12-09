@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 ## Overview 👋
 - I have already worked on frontend with
   ✨HTML, ✨CSS,
-   ✨JavaScript,  ✨Tailwind,  ✨React,  ✨React Router,  ✨Firebase Authentication all these technologies. I am working on Node JS, Mongodb, Express, NextJS all these technologies backend. I am well versed in this technology. 
+   ✨JavaScript,  ✨Tailwind,  ✨React,  ✨React Router,  ✨Firebase Authentication all these technologies.
+
+
+
+  - My expertise lies in backend development, leveraging Node.js and Express to build scalable and efficient server-side architectures. Proficient in MongoDB, I design and manage databases for optimal data handling. Additionally, I use Firebase services to implement robust backend functionalities. I am well versed in this technology. 
 
 
 ## My Skills
