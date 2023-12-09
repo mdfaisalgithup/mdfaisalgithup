@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I specialize in backend development, proficient in ✨Node.js and ✨Express to create robust server-side solutions. With expertise in ✨MongoDB, I excel in database design and management for efficient data handling. Leveraging ✨Next.js, I extend backend functionalities and ensure smooth server-client interactions, contributing to the development of high-performance applications. 
 
 
-## My Skills
+## My Skills 
 
 
   <a href="https://skillicons.dev">
@@ -30,13 +30,20 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdfaisalgithup)](https://github.com/anuraghazra/github-readme-stats)
 
-## Summary
-<p align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
-</p>
-
+####Mobile Shop
+## Live Link: https://apathetic-faileemps.surge.sh/
+- Added login and register and some navbar.
+- Each page will have header and footer.
+- 
 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
+## GitHub Status
+
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdfaisalgithup&show_icons=true&theme=transparent)
+
+
+
+
