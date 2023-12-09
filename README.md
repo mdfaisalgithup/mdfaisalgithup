@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 
 ## My Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript" />
+  </a>
+</p>
 
 
 
 
 ## Summary
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={mdfaisalgithup}&theme={theme_name}&exclude={exclude}
