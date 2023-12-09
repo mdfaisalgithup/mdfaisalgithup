@@ -16,9 +16,7 @@ Here are some ideas to get you started:
   ✨HTML, ✨CSS,
    ✨JavaScript,  ✨Tailwind,  ✨React,  ✨React Router,  ✨Firebase Authentication all these technologies.
 
-
-
-  - My expertise lies in backend development, leveraging Node.js and Express to build scalable and efficient server-side architectures. Proficient in MongoDB, I design and manage databases for optimal data handling. Additionally, I use Firebase services to implement robust backend functionalities. I am well versed in this technology. 
+- My expertise lies in backend development, leveraging Node.js and Express to build scalable and efficient server-side architectures. Proficient in MongoDB, I design and manage databases for optimal data handling. Additionally, I use Firebase services to implement robust backend functionalities. I am well versed in this technology. 
 
 
 ## My Skills
