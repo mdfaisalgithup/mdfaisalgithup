@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 
 
 ### Overview 👋
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
+- I have already worked with mongodb react, html css, javascript, tailwind, firebase all these technologies.
 
 
 ## My Skills
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 
 
 ## Summary
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&card_width=800)](https://git.io/streak-stats)
