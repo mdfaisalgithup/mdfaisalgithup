@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ### Overview 👋
-- I have already worked on frontend with html css, javascript, tailwind, React, React Router, firebase authentication all these technologies. Working on Node JS, MonDav, Express, NextJS all these technologies backend. I am well versed in this technology. 
+- I have already worked on frontend with ##html css, javascript, tailwind, React, React Router, firebase authentication all these technologies. Working on Node JS, MonDav, Express, NextJS all these technologies backend. I am well versed in this technology. 
 
 
 ## My Skills
