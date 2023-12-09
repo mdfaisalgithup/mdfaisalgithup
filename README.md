@@ -36,9 +36,13 @@ Here are some ideas to get you started:
 - Each page will have header and footer.
 - Some products have been added to the home page. A user can login and buy the phone.
 
+  ## Technologies use:
+  - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
+
 
 #### My Book Swap Service
 ## Live Link: https://broad-faileemps.surge.sh/
+-
 
 
 #### Tour Service Website
