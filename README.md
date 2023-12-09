@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - I have already worked on frontend with
   ✨HTML, ✨CSS,
    ✨JavaScript,  ✨Tailwind,  ✨React,  ✨React Router,  ✨NextJS  ✨Powerful-Tools Tanstack Query  ✨Firebase Authentication all these technologies.
-
-- I work with backend ✨**Express**, ✨**NodeJS**, ✨**Mongodb.**
+  
+- I work with backend ✨**Express**, ✨**NodeJS**, ✨**Mongodb.**. Processes data insertion and sending data to client site with high speed ✨**Express**.
 
 
 ## My Skills 
