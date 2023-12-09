@@ -34,7 +34,15 @@ Here are some ideas to get you started:
 ## Live Link: https://apathetic-faileemps.surge.sh/
 - Added login and register and some navbar.
 - Each page will have header and footer.
-- 
+- Some products have been added to the home page. A user can login and buy the phone.
+
+
+####My Book Swap Service
+## Live Link: https://broad-faileemps.surge.sh/
+
+
+####Tour Service Website
+## Live Link: https://dailyfaiseent-sky.surge.sh/
 
 
 
