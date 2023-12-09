@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup)](https://git.io/streak-stats)
 
 
-<div style="margin: 0 auto">
+<div style="display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh">
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdfaisalgithup&theme=merko" alt="GitHub Streak" /></a>
 </div>
