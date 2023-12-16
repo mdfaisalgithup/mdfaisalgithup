@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 
-#### Mobile Shop
-## Live Link: https://apathetic-faileemps.surge.sh/
+## Mobile Shop
+#### Live Link: https://apathetic-faileemps.surge.sh/
 - Added login and register and some navbar.
 - Each page will have header and footer.
 - Some products have been added to the home page. A user can login and buy the phone.
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
     - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
 
 
-#### My Book Swap Service
-## Live Link: https://broad-faileemps.surge.sh/
+## My Book Swap Service
+#### Live Link: https://broad-faileemps.surge.sh/
 - Header and footer are on every page and navbar is used in header.
 - A banner section has been added to the homepage.
 - A Swap-Read-Enjoy section has been added to the homepage.
@@ -56,8 +56,8 @@ Here are some ideas to get you started:
      - HTML, CSS, JS, REACT, REACT ROUTER, NODE JS, EXPRESS, MONGODB 
 
 
-#### Tour Service Website
-## Live Link: https://dailyfaiseent-sky.surge.sh/
+## Tour Service Website
+#### Live Link: https://dailyfaiseent-sky.surge.sh/
 - Added header website name website logo and navbar
 - Added social icons and short website description and title to footer
 - Homepage includes banner and overview section
